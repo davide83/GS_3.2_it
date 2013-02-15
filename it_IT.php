@@ -4,7 +4,7 @@
  *
  * Date:		22 Feb 2012
  * Revision:		Feb 2013
- * Version:		GetSimple 3.1-3.2
+ * Version:		1.2
  * Traductors: 		Davide Letizia 
  *
  * @package GetSimple
