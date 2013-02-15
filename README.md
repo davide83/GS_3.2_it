@@ -4,19 +4,20 @@ GS_3.2_it
 Italian language for Get Simple 3.2 CMS
 
 
-/****************************************
+/*************************************************************************
 
 		Italian Language File
 
-		Date:        22 Feb 2012
-		Revision:    Feb 2013
-		Version:     1.2
-		Traductors:  Davide Letizia 
+		Date:        		15 Feb 2013
+		Revision:    		Feb 2013
+		Version:     		1.3
+		Traductors:		 	Davide Letizia | letek.it
+		Contributors:	  g438.it
 
 		@package GetSimple
 		@subpackage Language
 
-****************************************/
+*************************************************************************/
 
 
 
